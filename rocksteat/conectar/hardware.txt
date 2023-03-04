@@ -1,0 +1,27 @@
+hardware:
+   - parte física dos computadores
+   - periferico: auxiliar usado para enviar as informaçoes ao computador (camera,mouse,pendrive)
+
+software:
+   - parte lógica
+   - necessita do hardware para sua execução
+   - tudo o que instala-mos no sistema
+   - software = programas
+   - conjunto de instruções para o computador
+   - está presente em diversos aparelhos eletrônicos
+
+firmware:
+   - presente nos componentes eletronicos
+   - armazena as informações para que o equipamento funcione corretamente
+   - o firmware notifica ao computador o que determinado componenete faz
+
+drivers:
+   - conecta o sistema operacional com dispositivos eletronicos
+
+sistema operacionais:
+   - responsável pelo gerenciamento do hardware do seu pc, ele informa para o programa em execução 
+     dirá quanto tempo sera utilzado, se precisará de espaço na memória ram
+
+programa:
+   - são ferramentas desenhadas para que o usuário possa realizar ações
+   - aplicativos que instala-mos para fazer coisas (navegador,paint,word)
