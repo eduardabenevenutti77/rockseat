@@ -1,0 +1,25 @@
+internet:
+ - redes interligadas pelo mundo
+ - feita por cabos que permitem conctar diversas partes do mundo
+ - conexão por meio de cabos submarinos, quando conectamos de um país a outro
+ - conexão fisica no mundo inteiro
+
+rede computadores:
+ - é a conexão de dispositivos para a transmissão de dados
+ - a comunicação é feita por protocolos
+ - modem -> recebe o sinal, codifica e manda para o roteador
+ - fireware -> não deixa entrar programas maliciosos em empresas -> no modem
+ 
+IP e MAC Address:
+ - ip -> numero dado ao dispositivo dado pelo provedor de internet ao conctarmos na rede
+ - mac adress -> numero gravado na placa de rede
+ - o ip muda conforme a necessidade
+ - por meio do ip podemos enviar e receber dados
+ - ip indentificador da internet
+ - mac adress = cpf -> nunca muda
+ - cada dispositivo tem o seu propio mac adress
+
+servidores:
+ - ofere serviço ao uma rede de computadores
+ - hospedagem de dados -> é hospedada num servidor
+
