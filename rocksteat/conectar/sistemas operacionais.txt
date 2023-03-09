@@ -1,0 +1,26 @@
+o que é?
+ - interface entre usuário e a máquina
+ - conversa com a linguagem da máquina
+ - gerencia tudo!
+
+caracterista e objetivos:
+ - fácil entendimento para o usuário
+ - controla o hardware
+ - gerencia os software
+
+tipos de interfaces do usuário:
+ - maneira de como usuário ira usar
+ - GUI: gráfica
+ - CLI: linha de comando
+   - permite que mandemos linhas de comandos para o computador
+
+kernel:
+ - quando ligamos o nosso dispositivos, ele é o primeiro módulo a ser iniciado
+ - gerencia a memória, armazenamento, dispositivos e cpu
+
+gerenciador de processo:
+ - faz o agendamento
+
+gerenciador de arquivos:
+ - organiza o armazenamento
+ - trabalha com os diretorios -> pastas

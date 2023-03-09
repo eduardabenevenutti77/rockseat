@@ -23,3 +23,13 @@ servidores:
  - ofere serviço ao uma rede de computadores
  - hospedagem de dados -> é hospedada num servidor
 
+DNS:
+ - traduz dominio para o ip
+ - permite que acessarmos o site pelo seu ip(números), sem a nessecidade de escrever seu dominio
+
+HTTP:
+ - protocolo para transferencia de dados
+ - https -> adiciona um criptografia nas informações enviadas e recebidas
+
+
+ 
