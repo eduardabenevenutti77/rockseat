@@ -1,0 +1,19 @@
+conectar - rockseat
+
+fundamentos da programação:
+   - web: maneira de estruturar a troca de informações entre computadores;
+   - algoritmos: passo a passo para a resolução de um problema 
+	         sequencia logica 
+   - logica de programação: aplicação do algoritmo
+   - entendimento do computador: só recebe ordem, o programador precisa entender oq precisa ser feito
+   - instruções: recebe dados (string, númerico e boleano - true/false)
+                 manipulação dados: transforma o programa em algo novo
+   - ser sempre detalista para que o programa entenda o que está sendo pedido!
+   - url: localizador do site 
+   - http: troca de msg entre computadores
+   - cliente: dispositivo que fez o pedido ao programa
+   - servidor: quem recebe os pedidos
+   - TCP: garante que pedido seja efetuado corretamente
+   - IP: endereço dos computadores
+   - DNS: converte um domínio ao endereço de ip
+   - proxy: dispositivos que estão no caminho da comunicação

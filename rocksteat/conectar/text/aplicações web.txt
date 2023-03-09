@@ -1,0 +1,14 @@
+ - webpages -> pag na web
+ - encontrado pela URL
+ - website -> agrupamento de várias paginas web
+    - estatico: a página não muda de usuário para usuario -> não interage com o banco de dados
+    - dinamico: interage com o banco de dados -> muda conforme o que pedido pelo usuário
+ - web application -> software que vive no servidor, envolve-se com banco de dados
+    - presica ter responsibilidade
+    - ter acessibilidade
+ - front-end -> cliente, browser --> html,css,js,imagens --> frameworks(tem suas propias regras) e bibliotecas
+ - back-end -> servidor, regra de negocio --> php,java,python,js,banco de dados
+ - tradicional -> necessida do regarrecamento da pg para que os conteudos estejam atualizados --> front e back numa so aplicação
+ - SPA ->  sensação de estar uma única pg, não precisa recarregar --> front e back são aplicações diferentes --> o servidor responde ao front
+   - front com frameworks
+   - back com APIs

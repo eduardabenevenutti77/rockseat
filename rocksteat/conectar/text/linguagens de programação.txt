@@ -1,0 +1,13 @@
+ - linguagem humana != linguagem de máquina
+ - possue regras!
+ - input -> entrada
+ - programa -> junção de diversos códigos
+ - output -> saída
+ - linguagem binária ->000100011100111
+ - low-level (início de tudo) -> mais próxima da linguagem da máquina (assembly)
+ - high-level -> mais próxima da linguagem humana (js, rust, python)
+ - compilar -> traduz o programa para o binário
+ - sintaxe -> conjunto de regras, cada linguagem tem a sua
+     - {} () ; = ++ -- --> símbolos
+     - if, else, while (enquanto), for, var, let, const --> palavras reservadas
+ 

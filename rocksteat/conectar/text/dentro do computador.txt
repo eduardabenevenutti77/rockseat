@@ -1,0 +1,15 @@
+memoria ram:
+   - memória temporaria, quando encerrado o que estava na memória é apagado
+
+hd/ssd:
+   - armazenamento de dados que ficam dentro do computador
+   - hd: pratos mecanicos com um cabeçote móvel que acessa os dados
+   - ssd: chips de memória
+   - permanecem sempre guardados
+
+processador:
+   - cérebro do computador
+   - transforma o que pedimos em número binários para que o computador possa entender
+   - tem o formato de chip
+   - a velocidade do seu computador depende do seu processador
+
